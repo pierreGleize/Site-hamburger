@@ -44,4 +44,3 @@ closeBtn.addEventListener("click", () => {
 sidebarBtn.addEventListener("click", () => {
   sidebar.classList.toggle("change");
 });
-
